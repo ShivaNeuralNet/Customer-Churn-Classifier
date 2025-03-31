@@ -132,3 +132,7 @@ Visualized to better understand the prediction errors.
 Data Scientist | Background in Accounting & Finance | Passionate about solving business problems with machine learning and data analysis.
 
 > "I believe that real impact comes from turning data into decisions."
+
+---
+
+**Techniques used**: `Logistic Regression` `SMOTE` `UnderSampling` `Classification` `Customer Retention` `E-commerce` `Supervised Learning` `Feature Engineering` `Imbalanced Data` `Scikit-learn`
