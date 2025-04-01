@@ -1,5 +1,10 @@
 # 🛍️ E-Commerce Customer Retention Classification
 
+![Python](https://img.shields.io/badge/Python-3.9.12-blue)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
+![Notebook](https://img.shields.io/badge/Notebook-Jupyter-yellow)
+
+
 ## 🔗 Objective
 This project focuses on building a **supervised machine learning classification model** to predict whether a customer will be retained (subscribe) or churn (not subscribe) based on their demographic, transactional, and behavioral features. The insights derived from this model aim to help e-commerce businesses tailor loyalty programs and marketing strategies to improve retention and revenue.
 
@@ -97,7 +102,7 @@ Several resampling and adjustment techniques were applied to improve model perfo
 
 ---
 
-### 🧲 ROC & AUC
+### ROC & AUC
 - **AUC = 0.91** for Logistic Regression
 - Model performs significantly better than random guessing (baseline)
 
